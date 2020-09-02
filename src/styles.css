@@ -1,0 +1,7 @@
+.altura{
+    height: 100vh;
+}
+
+.colores{
+    background: linear-gradient( rgb(26, 15, 128), rgb(126, 8, 8));
+}
